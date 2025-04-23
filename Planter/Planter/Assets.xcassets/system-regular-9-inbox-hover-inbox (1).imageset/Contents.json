@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "system-regular-9-inbox-hover-inbox.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "system-regular-9-inbox-hover-inbox (1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "system-regular-9-inbox-hover-inbox (2).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

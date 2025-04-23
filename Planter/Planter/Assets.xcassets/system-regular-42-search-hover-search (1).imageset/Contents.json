@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "system-regular-42-search-hover-search.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "system-regular-42-search-hover-search (1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "system-regular-42-search-hover-search (2).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
